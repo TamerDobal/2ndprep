@@ -79,6 +79,7 @@ main {
     padding: 2rem 0;
     font-size: 4rem;
     font-weight: bold;
+  line-height: 2.25rem;
 }
 #lesson1_class .answer{
     padding: 2rem 0;
