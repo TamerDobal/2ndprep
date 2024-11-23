@@ -75,6 +75,10 @@ main {
   main {
     padding: 0 2rem;
 }
+
+  .lessons {
+    padding: 2rem 2rem;
+}
   
   .lessons ul {
     gap: 1rem;
