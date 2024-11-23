@@ -72,15 +72,19 @@ main {
 }
 
 @media (max-width: 480px) {
+  main {
+    padding: 0 2rem;
+}
+  
   .lessons ul {
-    gap: 1.25rem;
+    gap: 1rem;
     font-weight: bold;
     
     
 }
 
 .lessons li {
-    width: 5rem;
+    width: 6rem;
     
 }
 
