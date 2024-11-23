@@ -73,11 +73,11 @@ main {
 
 @media (max-width: 480px) {
   main {
-    padding: 0 2rem;
+    padding: 0 1rem;
 }
 
   .lessons {
-    padding: 2rem 2rem;
+    padding: 2rem 1rem;
 }
   
   .lessons ul {
@@ -88,13 +88,13 @@ main {
 }
 
 .lessons li {
-    width: 6rem;
+    width: 7rem;
     
 }
 
 .lessons li a {
     color: #D4EBF8;
-    font-size: 1.25rem;
+    font-size: 1rem;
 }
    
 }
