@@ -77,10 +77,12 @@ main {
 }
 
   .navList{
-    
-    gap: 1.5rem;
-    
-    }
+  gap: 1.5rem;
+        }
+
+  .navLinks {
+      font-size: 1rem;
+}
 
   .lessons {
     padding: 2rem 1rem;
