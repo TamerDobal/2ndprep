@@ -76,6 +76,12 @@ main {
     padding: 0 1rem;
 }
 
+  .navList{
+    
+    gap: 1.5rem;
+    
+    }
+
   .lessons {
     padding: 2rem 1rem;
 }
