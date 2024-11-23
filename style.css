@@ -106,3 +106,40 @@ main {
 }
    
 }
+
+@media (max-width: 600px) {
+  main {
+    padding: 0 1rem;
+}
+
+  .navList{
+  gap: 1rem;
+        }
+
+  .navLinks {
+      font-size: 1.5rem;
+}
+
+  .lessons {
+    padding: 2rem 1rem;
+}
+  
+  .lessons ul {
+    gap: 1rem;
+    font-weight: bold;
+    
+    
+}
+
+.lessons li {
+    width: 7rem;
+    
+}
+
+.lessons li a {
+    color: #D4EBF8;
+    font-size: 1rem;
+}
+   
+}
+
