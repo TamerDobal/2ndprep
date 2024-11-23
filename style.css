@@ -72,5 +72,21 @@ main {
 }
 
 @media (max-width: 480px) {
+  .lessons ul {
+    gap: 1.25rem;
+    font-weight: bold;
+    
+    
+}
+
+.lessons li {
+    width: 5rem;
+    
+}
+
+.lessons li a {
+    color: #D4EBF8;
+    font-size: 1.25rem;
+}
    
 }
