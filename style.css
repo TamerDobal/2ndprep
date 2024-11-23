@@ -77,11 +77,11 @@ main {
 }
 
   .navList{
-  gap: 1.5rem;
+  gap: 1rem;
         }
 
   .navLinks {
-      font-size: 1rem;
+      font-size: 0.75rem;
 }
 
   .lessons {
